@@ -321,9 +321,7 @@ import javax.swing.UIManager.*;
 		///mainFrame.setUndecorated(true);
 
 		
-		pnPanel0.setBackground(Color.RED);
 		mainFrame.setContentPane(pnPanel0);
-		mainFrame.getContentPane().setBackground(Color.YELLOW);
 		mainFrame.pack();
 		mainFrame.setVisible(true);
 		tbJquetable.requestFocus();
